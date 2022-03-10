@@ -1,4 +1,4 @@
-# OBS Virtual background plugin
+# OBS Virtual background plugin  OBS 虚景插件
 
 English / [Japanese](./README_ja.md)
 
